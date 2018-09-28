@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# 本書入門指南
 
-You can use the [editor on GitHub](https://github.com/kinan1116/PTXTEST/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+交通部「公共運輸整合資訊流通服務平臺(PTX)」為在有限的資源下提供用戶穩定的資料服務水準、提升服務品質以及加強資訊安全管理，本書主要係提供使用本平臺服務的各項資料服務加值業者，在程式開發過程中常見問題的處理方式及資料使用的注意事項，使開發者能更快速地掌握PTX APIs的資料特性，並避免在旅運加值應用上資料運用錯誤。
 
-### Markdown
+本書分別透過四大主題加以說明：
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- API會員：於106年度本平臺開始導入會員機制，針對不同用戶採取不同服務使用限制，本章節將針對各會員層級進行說明並提供會員申請流程，並期望可快速解決各界針對會員申請的問題與解答。
 
-```markdown
-Syntax highlighted code block
+- API使用說明：此章節將針對API呼叫方法及注意事項進行說明。
 
-# Header 1
-## Header 2
-### Header 3
+- API特色說明：本平臺採API(On Demand)方式提供服務，此章節將針對API獨特的使用技巧進行說明。
 
-- Bulleted
-- List
+- API資料使用注意事項：此章節針對各運具資料面注意事項進行說明。
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kinan1116/PTXTEST/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
